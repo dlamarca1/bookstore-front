@@ -1,5 +1,8 @@
 # BookstoreFront
 
+This is a front-end application for a bookstore site developed during a digital innovation one class # how to create a front-end e-commerce with Angular
+For the backend app please access Natália, who mentored us, github page: https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
